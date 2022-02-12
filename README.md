@@ -12,8 +12,12 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+## home page:
+![OUTPUT](O1.jpeg)
 
+![OUTPUT](O2.jpeg)
+
+![ouput](O3.jpeg)
 
 ## Result:
-Thus a wire frame is designed for a given website.
+Thus a wire frame is designed for a given website
